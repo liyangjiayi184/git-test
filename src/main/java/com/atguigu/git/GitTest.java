@@ -14,5 +14,6 @@ public class GitTest {
         System.out.println("master test11");
         System.out.println("hotfix test");
         System.out.println("push to GitHub!!");
+        System.out.println("IDEA pull from GitHub!!");
     }
 }
